@@ -32,7 +32,7 @@
 [@liracle](https://github.com/liracle)
 
 ## 如何贡献
-非常欢迎你的假如! (提一个Issue)[https://github.com/ipeapea/mini-dataframe/issues/new] 或者提交一个 Pull Request。
+非常欢迎你的假如! [提一个Issue](https://github.com/ipeapea/mini-dataframe/issues/new) 或者提交一个 Pull Request。
 
 ### 贡献者
 
